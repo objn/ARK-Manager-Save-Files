@@ -1,0 +1,19 @@
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\bin\Debug\net6.0-windows\ARK Manager Save Files.exe
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\bin\Debug\net6.0-windows\ARK Manager Save Files.deps.json
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\bin\Debug\net6.0-windows\ARK Manager Save Files.runtimeconfig.json
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\bin\Debug\net6.0-windows\ARK Manager Save Files.dll
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\bin\Debug\net6.0-windows\ARK Manager Save Files.pdb
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.vbproj.AssemblyReference.cache
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK_Manager_Save_Files.Form1.resources
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.vbproj.GenerateResource.cache
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.AssemblyInfoInputs.cache
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.AssemblyInfo.vb
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.vbproj.CoreCompileInputs.cache
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.dll
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\refint\ARK Manager Save Files.dll
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.pdb
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK Manager Save Files.genruntimeconfig.cache
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ref\ARK Manager Save Files.dll
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\obj\Debug\net6.0-windows\ARK_Manager_Save_Files.Resources.resources
+C:\Users\Objn\Desktop\ARK Manager Save Files\ARK Manager Save Files\bin\Debug\net6.0-windows\ARK Manager Save Files.dll.config

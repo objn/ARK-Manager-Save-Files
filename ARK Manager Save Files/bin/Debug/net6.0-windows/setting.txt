@@ -1,0 +1,4 @@
+# ARK MANAGER SAVE BY OBJN #
+SavedArksLocal Directory > E:\SteamLibrary\steamapps\common\ARK\ShooterGame\Saved\SavedArksLocal
+Zip Directory > E:\SteamLibrary\steamapps\common\ARK\ShooterGame\Saved\SavedArksLocalZippedSaves
+#

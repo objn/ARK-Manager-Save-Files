@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ARK Manager Save Files/1.0.0": {
+        "runtime": {
+          "ARK Manager Save Files.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ARK Manager Save Files/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
